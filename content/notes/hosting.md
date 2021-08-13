@@ -6,7 +6,7 @@ title: "Deploying Quartz to the Web"
 Quartz is designed to be effortless to deploy. If you forked and cloned Quartz directly from the repository, everything should already be good to go! You can head to `<YOUR-GITHUB-USERNAME.github.io/quartz` to see it live.
 
 ### Enable GitHub Actions
-By default, GitHub disables workflows from running automatically on Forked Repostories. Head to the 'Actions' tab of your forked repository and Enable Workflows to setup deploying your Quartz site!
+By default, GitHub disables workflows from running automatically on Forked Repositories. Head to the 'Actions' tab of your forked repository and Enable Workflows to setup deploying your Quartz site!
 
 ![Enable GitHub Actions](/notes/images/github-actions.png)*Enable GitHub Actions*
 
@@ -83,3 +83,4 @@ Now that your Quartz is live, let's figure out how to make Quartz really *yours*
 🎨 [Customizing Quarts](notes/config.md)
 
 Having problems? Checkout our [FAQ and Troubleshooting guide](notes/troubleshooting.md).
+
