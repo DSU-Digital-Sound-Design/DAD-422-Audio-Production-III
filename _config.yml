@@ -2,6 +2,9 @@
 title: Quartz
 timezone: UTC
 collections:
+  notes:
+    title: Posts
+    output: true
   posts:
     title: Posts
     output: true
