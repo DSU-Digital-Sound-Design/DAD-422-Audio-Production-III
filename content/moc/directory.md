@@ -17,3 +17,5 @@ Not convinced yet? Look at some [community digital gardens](moc/showcase) built 
 ## Troubleshooting
 - 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
 - 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
+
+[slides](notes/test)

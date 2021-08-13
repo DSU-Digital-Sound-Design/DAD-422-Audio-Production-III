@@ -24,7 +24,7 @@ Here's a rough overview of what's what.
 
 **To edit the main home page, open `/content/_index.md`.** This is the home page which is slightly special. You don't need front matter here!
 
-To create a link between notes in your garden, just create a normal link using Markdown pointing to the document in question. Please note that **all links should be relative to the root `/content` path**. 
+To create a link between notes in your garden, just create a normal link using Markdown pointing to the document in question. Please [[notes/note]] that **all links should be relative to the root `/content` path**. 
 
 ```markdown
 For example, I want to link this current document to `notes/config.md`.

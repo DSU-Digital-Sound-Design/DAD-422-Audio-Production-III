@@ -9,6 +9,8 @@ ignoreFiles = [
     "/content/private/*",
 ]
 
+theme = "reveal-hugo"
+
 [markup]
     [markup.tableOfContents]
         endLevel = 3
@@ -25,3 +27,12 @@ ignoreFiles = [
         lineNumbersInTable = true
         style = "dracula"
         tabWidth = 4
+
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
