@@ -1,6 +1,8 @@
 
 [open as presentation](notes/test) 
 
+update from other email
+
 ## logo-example
 
 This presentation shows how to add a logo to each slide, like the GitHub one you see above.
