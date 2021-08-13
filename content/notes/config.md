@@ -2,6 +2,8 @@
 title: "Configuration"
 ---
 
+Edit this page
+
 ## Configuration
 Quartz is designed to be extremely configurable. You can find the bulk of the configuration scattered throughout the repository depending on how in-depth you'd like to get.
 
