@@ -6,7 +6,7 @@ enableToc: false
 | Week | Date | Topics, Assignments, Quizzes, Tests, Deadlines                     |
 | ---- | ---- | ------------------------------------------------------------------ |
 | 1    |      | Introduction: History of game audio from 8 bit to procedural audio |
-| 2    |      | The role of audio in interactive and immersive environments        |
+| 2    |      | The role of audio in interactive and immersive environments.          |
 <!-- 2		The role of audio in interactive and immersive environments
 3		Introduction to the Unity game engine 
 Assignment: Create three shapes and stack them on top of each other
