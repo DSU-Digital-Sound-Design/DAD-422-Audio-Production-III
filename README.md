@@ -1,3 +1,3 @@
-# DAD 222 - Audio Production I: Foundations
+# DAD 422 - Audio Production III 
 
-DAD 222 introduces the fundamentals of music technology in the context of its historical and cultural use. Scientific foundations of acoustics, hearing, and digital audio as well as technical skills for music production will be addressed. Participants will develop skills- based foundations of music technology through hands-on projects utilizing software applications for different media. Critical discussion will consider the social impact of contemporary and historical systems of instrument design, recording, notation, and media dissemination.
+DAD 422 is an introduction to the theory and practice of spatial audio and immersive sound. These fields will be explored in combination with an introduction to game audio and sound design using the Unity game engine. 
