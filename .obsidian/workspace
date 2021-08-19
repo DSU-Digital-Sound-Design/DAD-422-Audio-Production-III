@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/pages/schedule.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/pages/schedule.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/pages/schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +101,9 @@
   },
   "active": "ea6f9cbe530a77ea",
   "lastOpenFiles": [
-    "content/_index.md",
     "content/pages/schedule.md",
+    "content/pages/syllabus.md",
+    "content/_index.md",
     "content/pages/Untitled.md"
   ]
 }
