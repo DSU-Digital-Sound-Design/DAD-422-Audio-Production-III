@@ -1,6 +1,3 @@
-# Quartz
-Simple second brain and digital garden.
+# DAD 422 - Audio Production III 
 
-> “He who works with the door open gets all kinds of interruptions, but he also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
-
-🔗 Get Started: https://quartz.jzhao.xyz/
+DAD 422 is an introduction to the theory and practice of spatial audio and immersive sound. These fields will be explored in combination with an introduction to game audio and sound design using the Unity game engine. 
