@@ -28,6 +28,15 @@ Using what we learned from the video lets analyze the following games.
 
 [Mike Niederquell videos](https://www.youtube.com/playlist?list=PLL9E-Kn69u_IHXAqgR5yspYSWFENg2OIT)
 
+Transistor - Super Giant Games
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5nyJS5VKGqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Dead by Daylight - Bhaviour
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yRCoQgUNTxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The Sims 3 - EA Games
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HPZRd-8s0n4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Battlefield 2
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-AxiUMiKGLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
