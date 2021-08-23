@@ -26,6 +26,8 @@ Using what we learned from the video lets analyze the following games.
 
 [Joe Thwaites - Sackboy explainer](https://twitter.com/jaywaters76/status/1372952694852321282)
 
+[Mike Niederquell videos](https://www.youtube.com/playlist?list=PLL9E-Kn69u_IHXAqgR5yspYSWFENg2OIT)
+
 Battlefield 2
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-AxiUMiKGLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
