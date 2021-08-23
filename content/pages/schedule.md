@@ -19,6 +19,7 @@ th {
 
 }
     </style>
+
 <table>
   <tr>
    <td>Week
@@ -35,9 +36,26 @@ th {
 <p>
 8/27
    </td>
-   <td>Introduction: History of game audio from 8 bit to procedural audio
-<p>
-8/27 Class moved to TCB 111
+   <td>
+   <b>Monday 8/23</b>
+
+   * Me - [Dr. Carson](https://tatecarson.com)
+   * Class introductions 
+      * Name? Class year? Where are you from? What's your favorite game or movie?   
+   * [Syllabus](pages/syllabus.md)
+   * [Perusall](https://perusall.com/) signup
+        * I will assign readings, videos, or podcasts through Perusall. You will highlight interesting or confusing parts of the material and ask questions. These assignments will be part of your participation grade.  
+        * Course code - **CARSON-8FNR9**
+        * Do the syllabus highlighting by next class.   
+   * [Resources](pages/resources.md)
+   * [Immersive and Spatial audio](pages/lectures/monday-8-23/immersive-spatial)   
+
+  <br><b>Wednesday 8/25</b> 
+  * Introduction: History of game audio from 8 bit to procedural audio
+  
+
+
+<b>Friday 8/27 - Class moved to TCB 111</b>
    </td>
   </tr>
   <tr>

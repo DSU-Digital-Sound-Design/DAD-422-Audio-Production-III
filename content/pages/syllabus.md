@@ -115,7 +115,7 @@ The D2L Support for Students site is designed to provide DSU students a D2L supp
 
 ## **Course Delivery and Instructional Methods:**
 
-This is a studio course.  Topics are explored in this course through short lectures, class discussion, instructor guided activities_,_ individual student projects, and collaborative work.  
+This is a studio course.  Topics are explored in this course through short lectures, class discussion, instructor guided activities, individual student projects, and collaborative work.  
 
 
 ## **Classroom Policies:**
