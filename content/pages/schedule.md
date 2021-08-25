@@ -53,12 +53,11 @@ th {
   <br><b>Wednesday 8/25</b> 
   * Introduction: History of game audio from 8 bit to procedural audio - [slides](pages/lectures/week-1/game-audio-history/)
 
-  
-
+   HOMEWORK: Give a short presentation on a game that you like the sound design or soundtrack. Be prepared to speak for 10-15 minutes. You may use YouTube clips that you find or make your own recordings. 
  
    **Friday 8/27 - Class moved to TCB 111**
 
-   Make a short game in bitsy? 
+   Present your favorite game audio.     
 
    </td>
   </tr>
