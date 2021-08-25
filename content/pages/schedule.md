@@ -48,14 +48,18 @@ th {
         * Course code - **CARSON-8FNR9**
         * Do the syllabus highlighting by next class.   
    * [Resources](pages/resources.md)
-   * [Immersive and Spatial audio](pages/lectures/monday-8-23/immersive-spatial)   
+   * [Immersive and Spatial audio](pages/lectures/week-1/monday-8-23/immersive-spatial)   
 
   <br><b>Wednesday 8/25</b> 
-  * Introduction: History of game audio from 8 bit to procedural audio
+  * Introduction: History of game audio from 8 bit to procedural audio - [slides](pages/../lectures/week-1/game-audio-history/_index.md)
+
   
 
+ 
+   **Friday 8/27 - Class moved to TCB 111**
 
-<b>Friday 8/27 - Class moved to TCB 111</b>
+   Make a short game in bitsy? 
+
    </td>
   </tr>
   <tr>
