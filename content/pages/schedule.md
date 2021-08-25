@@ -51,7 +51,7 @@ th {
    * [Immersive and Spatial audio](pages/lectures/week-1/monday-8-23/immersive-spatial)   
 
   <br><b>Wednesday 8/25</b> 
-  * Introduction: History of game audio from 8 bit to procedural audio - [slides](pages/../lectures/week-1/game-audio-history/_index.md)
+  * Introduction: History of game audio from 8 bit to procedural audio - [slides](pages/../lectures/week-1/game-audio-history/)
 
   
 
