@@ -59,6 +59,7 @@ th {
 
    Present your favorite game audio.     
 
+   HOMEWORK: Watch [Beep: A Documentary History of Game Sound](https://dakotastateuniversity-my.sharepoint.com/:v:/g/personal/tate_carson_dsu_edu/EeZ6nRUOdrFGgVnS6TmLNjwBsBYQj0yp0k3UdrXXKaIHPw?e=QmQHEj) and be ready to talk about it on Monday. 
    </td>
   </tr>
   <tr>
