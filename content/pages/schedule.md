@@ -67,7 +67,47 @@ th {
    </td>
    <td>8/30, 9/1, 9/3
    </td>
-   <td>The role of audio in interactive and immersive environments
+   <td>
+
+   The role of audio in interactive and immersive environments
+   
+   **Monday 8/30**
+
+   <!-- TODO: Find examples of each of these in games -->
+   <!-- TODO: add some examples adn and an explanation of acoustic space from Truax -->
+   * Classwork
+      *  Jobs in game audio
+         * [Audio Programmer](https://jobs.suckerpunch.com/careers/33358-General/jobs/14040972-PROGRAMMING-Audio-Programmer)  
+         * [Technical Sound Designer](https://jobs.suckerpunch.com/careers/33358-General/jobs/14570392-DESIGN-Technical-Sound-Designer)
+         * [Sound Designer](https://jobs.suckerpunch.com/careers/33358-General/jobs/14570389-DESIGN-Sound-Designer)
+      * Leftover presentations from last week
+      * Theory - [Inform, Entertain, Immerse](pages/lectures/week-2-the-roll-of-audio-in-interactive-and-immersive-environments/monday-8-30)
+      * Practice - [Foundations: Get started with Unity](https://learn.unity.com/mission/real-time-creation-essentials?pathwayId=5f7bcab4edbc2a0023e9c38f)
+
+   <!-- Listen to 20k Domestic Symphony Podcast - https://www.20k.org/episodes/domesticsymphony -->
+
+   <!-- or - https://www.20k.org/episodes/auditoryicons -->
+
+   <!-- Watch an introduction to  Unity tutorial -->
+
+   On Friday we'll present again on our games but be more specific, using the framework of inform, entertain, and immerse.
+
+   **Wednesday 9/1**
+   
+   * Classwork
+      * Entertain and immerse 
+      * more unity intro and practice
+
+   <!-- HOMEWORK: -->
+
+   **Friday 9/3**
+
+   * CLASSWORK
+      * Challenges of game audio   
+      * * more unity intro and practice
+
+   <!-- HOMEWORK: -->
+
    </td>
   </tr>
   <tr>
