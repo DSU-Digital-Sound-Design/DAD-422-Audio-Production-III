@@ -93,10 +93,15 @@ th {
    On Friday we'll present again on our games but be more specific, using the framework of inform, entertain, and immerse.
 
    **Wednesday 9/1**
-   
+   * More Jobs in Game Audio  
+      * [Music Implementer](https://www.respawn.com/careers/music-implementer-temporary-star-wars-team) 
+         * [How To Become A Video Game Audio Implementer](https://www.gameindustrycareerguide.com/how-to-become-a-video-game-audio-implementer/)   
+      * [Associate Sound Designer](https://www.respawn.com/careers/associate-sound-designer-temporary-star-wars-team)
+         * [How To Become A Video Game Sound Designer](https://www.gameindustrycareerguide.com/how-to-become-a-video-game-sound-designer/)
+      * [Audio Implementer](https://www.respawn.com/careers/audio-implementer-temporary-star-wars-team)
    * Classwork
-      * Entertain and immerse 
-      * more unity intro and practice
+      * [Entertain and immerse](pages/lectures/week-2-the-roll-of-audio-in-interactive-and-immersive-environments/wednesday-9-1) 
+      * [more unity intro and practice](pages/lectures/week-2-the-roll-of-audio-in-interactive-and-immersive-environments/wednesday-9-1/intro-to-unity.md)
 
    <!-- HOMEWORK: -->
 
@@ -104,8 +109,8 @@ th {
 
    * CLASSWORK
       * Challenges of game audio   
-      * * more unity intro and practice
-
+      *  more unity intro and practice
+   <!-- Explore: https://learn.unity.com/tutorial/work-with-gameobjects-in-a-3d-scene?uv=2019.4&missionId=5f777d9bedbc2a001f6f5ec7&pathwayId=5f7bcab4edbc2a0023e9c38f&contentId=5f777f61edbc2a2315d49058&projectId=5fa1e431edbc2a001f53e6cc -->
    <!-- HOMEWORK: -->
 
    </td>
