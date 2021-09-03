@@ -22,7 +22,7 @@ Even though we have access to much more powerful technology than what we have be
 
 In simplistic terms, implementation consists of making sure that the proper sounds are played at the right time, at the right sound level and distance and that they are processed in the way the sound designer intended.
 
-We will be implimenting audio using unity and FMOD; but there are other popular tools such as Wwise. To implement sounds in Unity we'll be using the C# language. 
+We will be implementing audio using unity and FMOD; but there are other popular tools such as Wwise. To implement sounds in Unity we'll be using the C# language. 
 
 ---
 
