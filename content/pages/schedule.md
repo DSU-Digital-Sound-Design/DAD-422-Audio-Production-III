@@ -107,11 +107,27 @@ th {
 
    **Friday 9/3**
 
-   * CLASSWORK
-      * Challenges of game audio   
-      *  more unity intro and practice
-   <!-- Explore: https://learn.unity.com/tutorial/work-with-gameobjects-in-a-3d-scene?uv=2019.4&missionId=5f777d9bedbc2a001f6f5ec7&pathwayId=5f7bcab4edbc2a0023e9c38f&contentId=5f777f61edbc2a2315d49058&projectId=5fa1e431edbc2a001f53e6cc -->
-   <!-- HOMEWORK: -->
+   **Reminder**: no class on Monday 9/6 because of Labor Day
+
+   CLASSWORK
+
+  * Look at these jobs ^^^^^^ 
+  * [Challenges of game audio](pages/lectures/week-2-the-roll-of-audio-in-interactive-and-immersive-environments/friday-9-3/) 
+  *  more unity intro and practice
+     * [Work with GameObjects in a 3D Scene](https://learn.unity.com/tutorial/work-with-gameobjects-in-a-3d-scene?uv=2019.4&missionId=5f777d9bedbc2a001f6f5ec7&pathwayId=5f7bcab4edbc2a0023e9c38f&contentId=5f777f61edbc2a2315d49058&projectId=5fa1e431edbc2a001f53e6cc#) 
+
+  HOMEWORK:
+
+  * Start building a catalog of audio actions from your chosen game
+       * Create a post with three examples of each sound category. We'll be using these as a reference for as we move through the semester. 
+       * Example: https://www.youtube.com/embed/vG6315aMFnA?start=10&end=14
+       * Replace the code with the one for your youtube link and change the start and end times to match what you want to show; times are in seconds.
+       * I'll create threads for each category and we can see how those sounds are different between the different games.  
+          * DX  = Dialogue - any verbal speech in the game.
+          * MX = Music - any non-diegetic music.
+          * SFX = Sound Effects (Hard Effects) - any sound from an real-life object.
+          * FOL = Foley - any sound effect that the player makes.
+          * BG = Backgrounds (ambience) - noise from the environment. 
 
    </td>
   </tr>
