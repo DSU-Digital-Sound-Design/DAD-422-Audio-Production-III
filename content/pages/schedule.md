@@ -136,13 +136,32 @@ th {
    </td>
    <td>9/8, 9/10
    </td>
-   <td>Introduction to the Unity game engine 
-<p>
-In class assignments: Unity Tutorials
-<p>
-Project 1 Due 9/11: Create three shapes and stack them on top of each other
-<p>
-9/6 – No class for Labor Day
+   <td>
+
+   Introduction to the Unity game engine 
+
+   **Monday 9/6**
+   No class for Labor Day
+
+   **Wednesday 9/8**
+   * review our game sound families forums posts 
+   * get setup with Unity collaborate
+      * Create a project
+      * push your first changes to it 
+      * add me as a member  
+  * The game engine paradigm
+      * Unity and other game engines  
+  
+
+   In class assignments: continue with unity tutorials 
+
+   Homework: create a unique scene out of the elements we've learned so far. 
+
+   
+   **Friday 9/10**
+
+   Collaborate with a classmate, adding to their creation.  
+
    </td>
   </tr>
   <tr>
