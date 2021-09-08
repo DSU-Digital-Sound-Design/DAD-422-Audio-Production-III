@@ -69,7 +69,7 @@ th {
    </td>
    <td>
 
-   The role of audio in interactive and immersive environments
+   ## The role of audio in interactive and immersive environments
    
    **Monday 8/30**
 
@@ -138,29 +138,39 @@ th {
    </td>
    <td>
 
-   Introduction to the Unity game engine 
+   ## Introduction to the Unity game engine 
 
    **Monday 9/6**
+
    No class for Labor Day
 
    **Wednesday 9/8**
+
    * review our game sound families forums posts 
    * get setup with Unity collaborate
-      * Create a project
+      * Follow [instructions](https://docs.unity3d.com/Manual/UnityCollaborateSettingUp.html) for getting setup with Unity Collaborate
+      * Test it with your project from last week
       * push your first changes to it 
       * add me as a member  
-  * The game engine paradigm
-      * Unity and other game engines  
-  
 
-   In class assignments: continue with unity tutorials 
-
-   Homework: create a unique scene out of the elements we've learned so far. 
+   In class assignments: 
+   * Complete this tutorial on [materials](https://learn.unity.com/tutorial/create-effects-for-3d-gameobjects?uv=2019.4&pathwayId=5f7bcab4edbc2a0023e9c38f&missionId=5f777d9bedbc2a001f6f5ec7&projectId=5fa1e431edbc2a001f53e6cc#5fa1ce6fedbc2a001f612d9b)
+   * Find materials in the asset store and add them to your project so that each element of your game has a material.
+   * Complete the [floor is lava challenge](https://learn.unity.com/tutorial/challenge-the-floor-is-lava?uv=2019.4&pathwayId=5f7bcab4edbc2a0023e9c38f&missionId=5f777d9bedbc2a001f6f5ec7&projectId=5fa1e431edbc2a001f53e6cc#5fa5e519edbc2a0020bca258)
+      * Add these elements to your scene that we started last week 
+   * Add a classmate as a member to your project so they can collaborate with you on Friday.
+   
 
    
    **Friday 9/10**
 
-   Collaborate with a classmate, adding to their creation.  
+   * Introduction to scripting in Unity 
+   * Make changes to the scene that your classmate shared with you 
+      * Add scripts to objects to 
+         * increment scale 
+         * increment position
+         * increment rotation
+      * Change the materials  
 
    </td>
   </tr>
