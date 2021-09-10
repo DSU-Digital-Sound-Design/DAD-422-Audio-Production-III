@@ -7,4 +7,5 @@ DAD 422 is an introduction to the theory and practice of spatial audio and immer
 - [syllabus](pages/syllabus)
 - [schedule](pages/schedule)
 - [projects](pages/projects)
+- [game sound database](pages/database)
 - [resources](pages/resources)

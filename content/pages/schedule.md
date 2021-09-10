@@ -159,19 +159,27 @@ th {
    
    **Friday 9/10**
 
+   * Please see the link to the Airtable base in D2L. Add you game sound examples to the table and give each entry a type of sound and description. 
+   * Unity Collaborate
+      * To use Unity collaborate go to the Unity Hub and click the down arrow then click "Open remote project". 
+      * Be sure to publish your scene in addition to your assets. 
    * Introduction to scripting in Unity 
-   * Make changes to the scene that your classmate shared with you 
-      * Add scripts to objects to 
-         * increment scale 
-         * increment position
-         * increment rotation
-      * Change the materials  
+      * Download [Visual Studio](https://visualstudio.microsoft.com/) 
+      * See [Unity Scripting Guide](https://docs.unity3d.com/ScriptReference/index.html) for more information.
+
 
    In class assignments: 
-   * Add a classmate as a member to your project and add materials to their project. Follow the tutorials if needed. 
    * Complete this tutorial on [materials](https://learn.unity.com/tutorial/create-effects-for-3d-gameobjects?uv=2019.4&pathwayId=5f7bcab4edbc2a0023e9c38f&missionId=5f777d9bedbc2a001f6f5ec7&projectId=5fa1e431edbc2a001f53e6cc#5fa1ce6fedbc2a001f612d9b)
    * Find materials in the asset store and add them to your project so that each element of your game has a material.
    * Complete the [floor is lava challenge](https://learn.unity.com/tutorial/challenge-the-floor-is-lava?uv=2019.4&pathwayId=5f7bcab4edbc2a0023e9c38f&missionId=5f777d9bedbc2a001f6f5ec7&projectId=5fa1e431edbc2a001f53e6cc#5fa5e519edbc2a0020bca258) 
+
+   * Add a classmate as a member to your project and add materials to their project. Follow the tutorials if needed. 
+   * Make changes to the scene that your classmate shared with you 
+   * Add scripts to objects to 
+      * increment scale 
+      * increment position
+      * increment rotation
+   * Change the materials  
 
    </td>
   </tr>
