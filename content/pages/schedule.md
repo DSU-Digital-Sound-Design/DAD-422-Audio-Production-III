@@ -169,10 +169,10 @@ th {
 
 
    In class assignments: 
+
    * Complete this tutorial on [materials](https://learn.unity.com/tutorial/create-effects-for-3d-gameobjects?uv=2019.4&pathwayId=5f7bcab4edbc2a0023e9c38f&missionId=5f777d9bedbc2a001f6f5ec7&projectId=5fa1e431edbc2a001f53e6cc#5fa1ce6fedbc2a001f612d9b)
    * Find materials in the asset store and add them to your project so that each element of your game has a material.
    * Complete the [floor is lava challenge](https://learn.unity.com/tutorial/challenge-the-floor-is-lava?uv=2019.4&pathwayId=5f7bcab4edbc2a0023e9c38f&missionId=5f777d9bedbc2a001f6f5ec7&projectId=5fa1e431edbc2a001f53e6cc#5fa5e519edbc2a0020bca258) 
-
    * Add a classmate as a member to your project and add materials to their project. Follow the tutorials if needed. 
    * Make changes to the scene that your classmate shared with you 
    * Add scripts to objects to 
@@ -188,9 +188,40 @@ th {
    </td>
    <td>9/13, 9/15, 9/17
    </td>
-   <td>Unity Audio Engine and Spatial Audio 
-<p>
-Project 2 Due 9/17: Add sounds from freesound.org to an example project
+   <td>
+   
+   ## Unity Audio Engine and Spatial Audio 
+
+   Project 2 Due 9/17: Add sounds from freesound.org to an example project
+
+   **Monday 9/13**
+
+   * Follow along with the [Essentials of real-time audio](https://learn.unity.com/tutorial/add-background-music?uv=2019.4&missionId=5f777d9bedbc2a001f6f5ec7&contentId=5f777f61edbc2a2315d49058&projectId=5faab859edbc2a00209536ce#5fabffbbedbc2a2003a575cd) Unity tutorial. 
+   * See the documentation for more information on the elements we're using
+       * [Unity Audio](https://docs.unity3d.com/Manual/Audio.html) 
+       * [Audio Source](https://docs.unity3d.com/Manual/class-AudioSource.html)
+
+
+   In class lab: 
+   * After you're done with the tutorial go back to our pyramid project and add sounds to a 5 of the GameObjects. Move them with the scripts you already had and listen to how the doppler effect works.
+   * Play with the volume curve, make sure the right part of the curve reaches zero!
+   * When you're done be sure to publish your results. 
+   * Post on D2L that you have completed the lab.
+
+   Homework: 
+   Read chapter 4 part 3 Attenuation Shapes and Distance and part 4 Features of Unity’s Audio Engine. We will be using the theory you read about in class on Wednesday to add to our games immersion. 
+
+   **Wednesday 9/15**
+
+   * Features of Unity's audio engine
+      * Audio Filters
+      * Audio Effects
+      * Audio Mixers 
+
+   **Friday 9/17**
+
+   * Work on applying all of what we've learned this week to our projects. 
+  
    </td>
   </tr>
   <tr>
