@@ -211,6 +211,8 @@ th {
    Homework: 
    Read chapter 4 part 3 Attenuation Shapes and Distance and part 4 Features of Unity’s Audio Engine. We will be using the theory you read about in class on Wednesday to add to our games immersion. 
 
+   Also, if you haven't added your game sound examples to the Airtable yet, do so now.
+
    **Wednesday 9/15**
 
    * Features of Unity's audio engine
