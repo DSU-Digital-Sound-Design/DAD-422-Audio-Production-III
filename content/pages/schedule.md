@@ -192,7 +192,7 @@ th {
    
    ## Unity Audio Engine and Spatial Audio 
 
-   Project 2 Due 9/17: Add sounds from freesound.org to an example project
+   
 
    **Monday 9/13**
 
@@ -208,17 +208,24 @@ th {
    * When you're done be sure to publish your results. 
    * Post on D2L that you have completed the lab.
 
-   Homework: 
+   <!-- Homework: 
    Read chapter 4 part 3 Attenuation Shapes and Distance and part 4 Features of Unity’s Audio Engine. We will be using the theory you read about in class on Wednesday to add to our games immersion. 
+   Note: I actually wanted them to do this later. 
+    -->
 
    Also, if you haven't added your game sound examples to the Airtable yet, do so now.
 
    **Wednesday 9/15**
 
    * Features of Unity's audio engine
-      * Audio Filters
+      * Audio Filters - add some to the different objects in your game.
       * Audio Effects
       * Audio Mixers 
+   * Experiment with adding these to your project. 
+
+   [Project 2 Due 9/17](pages/projects.md)
+   
+
 
    **Friday 9/17**
 
