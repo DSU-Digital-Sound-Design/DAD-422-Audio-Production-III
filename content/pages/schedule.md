@@ -224,7 +224,6 @@ th {
    * Experiment with adding these to your project. 
 
    [Project 2 Due 9/17](pages/projects.md)
-   
 
 
    **Friday 9/17**
@@ -238,9 +237,31 @@ th {
    </td>
    <td>9/20, 9/22, 9/24
    </td>
-   <td>Sound design for games
-<p>
-Project 3 – Due 9/24: Make your own sounds in 10 of the following categories: Footsteps, Heart-beat, Wind, Shooting, sound, Jump, Rolling ball, Large object impact, Small object impact, Short looping musical sequence (pitched "pad"" sounds), Low drum (kick), High-pitched drum (tom), Sharp attack drum (snare), Voice, Motor idling, Motor revving, Space-ship flying, HUD interface sounds (button presses, toggles, sliders), Player Death, Player Spawn, Game Victory, Game Failure
+   <td>
+   
+   ## Sound design for games
+
+   **Monday 9/20**
+
+   * Play through our games! 
+   * [The art of sound design](pages/lectures/week-5/sound-design)
+   * Show Sound Particles app for making ambiences 
+
+   In class lab: Try yourself. Find an impact sound from freesound.org and try to make it sound worthy of a game with some plugins using some of the things we've talked about in class.
+  
+   **Wednesday 9/22**
+
+   * Recording sound effects 
+      * Field recording 
+      * Studio recording 
+    * Sound effects organization 
+    * Basic techniques for making sound effects
+
+   **Friday 9/24**
+
+   * More sound effects basics, whatever we didn't get to on Wednesday.
+
+   Project 3 – Due 10/1: Create your own versions of sound effects including, guns, vehicles and creature sounds. You should turn in five variations of each category, totaling 15 sounds. Use all the techniques we've learned so far whether recording studio techniques or sound design manipulations. 
    </td>
   </tr>
   <tr>
@@ -248,9 +269,26 @@ Project 3 – Due 9/24: Make your own sounds in 10 of the following categories: 
    </td>
    <td>9/27, 9/29, 10/1
    </td>
-   <td>Intro to C# and Audio Scripting
-<p>
-In class assignments: more Unity Tutorials
+   <td>
+   **Monday 9/27**
+   
+   * Practical sound design and prototyping
+      * Guns  
+      * Prototyping vehicles  
+      * Creature sounds 
+
+   **Wednesday**
+
+   * Do what we didn't get to on Monday 
+
+   **Friday 10/1**
+
+   * Coding for game audio 
+      * Our first script 
+      * Play() vs PlayOneShot()
+      * Using Triggers 
+      * Sample randomization 
+      * Detecting keyboard events 
    </td>
   </tr>
   <tr>
