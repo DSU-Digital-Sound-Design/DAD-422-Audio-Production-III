@@ -251,6 +251,7 @@ th {
   
    **Wednesday 9/22**
 
+   * **Job Alert** - Senior Audio Designer at [Obsidian Entertainment](https://www.obsidian.net/careers/open-positions/audio/U4J7lEpHos-senior-audio-designer)
    * Play through the games we did't do on Tuesday. 
    * Show some examples of unique plugins you like use or found. 
    * Batch processing - Adobe Audition or other solution
@@ -264,10 +265,10 @@ th {
       * mic placement 
          * further away - more reverb
          * close up - more direct sound from the sound source
-    * Sound effects organization - [asset list](lectures/week-5/sound-design/asset-list.xlsx)
-    * Try to recreate the sounds from [Crowfall](https://www.youtube.com/watch?v=6grv9UqpyAw)
-    * Sounds of [Mortal Kombat](https://www.youtube.com/watch?v=IYS0rPYjW28)
-    * Also, sounds from [Minecraft](https://www.youtube.com/watch?v=yKmj8gnCbag)
+   * Sound effects organization - [asset list](lectures/week-5/sound-design/asset-list.xlsx)
+   * Try to recreate the sounds from [Crowfall](https://www.youtube.com/watch?v=6grv9UqpyAw)
+   * Sounds of [Mortal Kombat](https://www.youtube.com/watch?v=IYS0rPYjW28)
+   * Also, sounds from [Minecraft](https://www.youtube.com/watch?v=yKmj8gnCbag)
    
    [Project 3 – Due 10/1](pages/projects.md)
    
