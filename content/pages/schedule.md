@@ -251,17 +251,48 @@ th {
   
    **Wednesday 9/22**
 
+   * Play through the games we did't do on Tuesday. 
+   * Show some examples of unique plugins you like use or found. 
+   * Batch processing - Adobe Audition or other solution
    * Recording sound effects 
-      * Field recording 
-      * Studio recording 
-    * Sound effects organization 
-    * Basic techniques for making sound effects
-
+      * Field recording - check out the Zoom h6
+      * Studio recording - let's check out the [studio](https://sites.google.com/view/charmstudios) 
+      * microphones 
+         * dynamic - less sensitive; for louder environments 
+         * condenser - more sensitive; for quiet environments  
+         * polar patterns - omnidirectional, figure-8, cardioid, hypercardioid, etc.
+      * mic placement 
+         * further away - more reverb
+         * close up - more direct sound from the sound source
+    * Sound effects organization - [asset list](lectures/week-5/sound-design/asset-list.xlsx)
+    * Try to recreate the sounds from [Crowfall](https://www.youtube.com/watch?v=6grv9UqpyAw)
+    * Sounds of [Mortal Kombat](https://www.youtube.com/watch?v=IYS0rPYjW28)
+    * Also, sounds from [Minecraft](https://www.youtube.com/watch?v=yKmj8gnCbag)
+   
+   [Project 3 – Due 10/1](pages/projects.md)
+   
    **Friday 9/24**
 
-   * More sound effects basics, whatever we didn't get to on Wednesday.
+   * Some tricks for using [Reaper](https://www.asoundeffect.com/reaper-for-game-audio-getting-started-rendering/) for sound design.
+   * Basic techniques for making sound effects
+      * layering/mixing
+      * pitch shifting 
+         * playback speed manipulation 
+         * granular pitch shifting - look at sound particles and others   
+      * Distortion 
+      * Compression 
+      * Equalization / Filtering 
+      * Harmonic Generators/Aural Exciters
+      * Granular Synthesis and Granulation of Sampled Sounds
+      * Classic DSP
+      * Reverb
+      * Convolution
+      * Time-Based Modulation FX
+      * Foley recording 
 
-   Project 3 – Due 10/1: Create your own versions of sound effects including, guns, vehicles and creature sounds. You should turn in five variations of each category, totaling 15 sounds. Use all the techniques we've learned so far whether recording studio techniques or sound design manipulations. 
+
+   
+
    </td>
   </tr>
   <tr>
