@@ -285,7 +285,7 @@ th {
          * Create new sub-projects
          * Select tracks and - move tracks to new sub-project  
 
-   Homework: Over the weekend keep going with some of the sounds you crated today. 
+   Homework: Over the weekend keep going with some of the sounds you created today. 
 
    
 
