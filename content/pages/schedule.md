@@ -275,22 +275,17 @@ th {
    **Friday 9/24**
 
    * Some tricks for using [Reaper](https://www.asoundeffect.com/reaper-for-game-audio-getting-started-rendering/) for sound design.
-   * Basic techniques for making sound effects
-      * layering/mixing
-      * pitch shifting 
-         * playback speed manipulation 
-         * granular pitch shifting - look at sound particles and others   
-      * Distortion 
-      * Compression 
-      * Equalization / Filtering 
-      * Harmonic Generators/Aural Exciters
-      * Granular Synthesis and Granulation of Sampled Sounds
-      * Classic DSP
-      * Reverb
-      * Convolution
-      * Time-Based Modulation FX
-      * Foley recording 
+   * [Reaper for game audio](https://www.youtube.com/watch?v=UOodjB31a3g&list=RDCMUCr1pdADQRWMks2checkZxBA&start_radio=1&rv=UOodjB31a3g&t=1) - Youtube Series 
+   * Show my work on making a monster sound out of Max's voice 
+   * Using the Granulator II in Ableton Live 
+   * Reaper 
+      * Media explorer
+      * Exporting regions 
+      * Sub-projects? 
+         * Create new sub-projects
+         * Select tracks and - move tracks to new sub-project  
 
+   Homework: Over the weekend keep going with some of the sounds you crated today. 
 
    
 
