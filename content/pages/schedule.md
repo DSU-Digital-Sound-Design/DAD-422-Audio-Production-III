@@ -274,6 +274,7 @@ th {
    
    **Friday 9/24**
 
+   * Leftover game presentation? 
    * Some tricks for using [Reaper](https://www.asoundeffect.com/reaper-for-game-audio-getting-started-rendering/) for sound design.
    * [Reaper for game audio](https://www.youtube.com/watch?v=UOodjB31a3g&list=RDCMUCr1pdADQRWMks2checkZxBA&start_radio=1&rv=UOodjB31a3g&t=1) - Youtube Series
    * [Download](https://dakotastateuniversity-my.sharepoint.com/:f:/g/personal/tate_carson_dsu_edu/Es2YXyLc5dpOqdwa1uxR4mIBoKcoOiD_eC296_-gBiaolA?e=sH9t0B) the recordings from Wednesday 
@@ -281,8 +282,12 @@ th {
    * Using the Granulator II in Ableton Live 
    * Reaper 
       * Media explorer
+      * Item clip gain
+      * Time shrink items 
+      * Reverse item - toggle take reverse
+      * ReaPitch 
       * Exporting regions 
-      * Sub-projects? 
+      * Sub-projects
          * Create new sub-projects
          * Select tracks and - move tracks to new sub-project  
 
