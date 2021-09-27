@@ -303,13 +303,18 @@ th {
    <td>9/27, 9/29, 10/1
    </td>
    <td>
+
    **Monday 9/27**
    
-   * Practical sound design and prototyping
-      * Guns  
-      * Prototyping vehicles  
-      * Creature sounds 
-
+   * Show leftover game? 
+   * Show sound effects we created over the weekend 
+   * Reaper setup
+      * Adding a video track to Reaper  
+      * SMPTE timecode for visual medium 
+      * Nudge - "n" in Reaper brings up nudge menu, where you can nudge by any type of time unit.
+   * [Practical sound design and prototyping](pages/lectures/week-6/practical-sound-design)
+   * Take the rest of class to create a gun or weapon sound effect. It can be a laser gun or another type of gun. 
+  
    **Wednesday**
 
    * Do what we didn't get to on Monday 
