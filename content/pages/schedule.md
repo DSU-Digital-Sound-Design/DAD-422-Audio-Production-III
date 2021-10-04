@@ -347,15 +347,32 @@ th {
 
    **Wednesday 10/6**
 
-   * Coding for game audio 
+   * Sound Effects Scripting tutorial
+
+   <!-- * Coding for game audio 
       * Our first script 
       * Play() vs PlayOneShot()
       * Using Triggers 
       * Sample randomization 
-      * Detecting keyboard events  
+      * Detecting keyboard events   -->
   
-<p>
-Project 4: Due 10/9 – Implement common audio for common game scenarios. Use your sounds from project 3.  
+<!-- 
+   **Friday 10/9**
+
+   * Creating and working with loops for ambience and backgrounds. 
+   * Using triggers for loop for 2D and 3D ambiences.
+ * Working with random emitters to create a richer soundscape.
+ Collisions.
+ * Surface and velocity­dependent collisions.  
+   * Distance crossfades.
+ * Sound concatenation.
+ * Raycasting for occlusion simulation.
+ * Adding sound to animation clips.  
+  * Working with prefabs.
+   -->
+
+   Project 4: Due 10/15 – Implement common audio for common game scenarios. Use your sounds from project 3.  
+
    </td>
   </tr>
   <tr>
@@ -378,6 +395,7 @@ Project 4: Due 10/9 – Implement common audio for common game scenarios. Use yo
 10/22
    </td>
    <td>Environmental Modeling: reverberation, distance, occlusion, obstruction, exclusion
+
 <p>
 In class assignment: Add environmental modeling to project 4
    </td>
