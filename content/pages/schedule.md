@@ -317,16 +317,12 @@ th {
   
    **Wednesday**
 
-   * Do what we didn't get to on Monday 
+   Class canceled 
 
    **Friday 10/1**
 
-   * Coding for game audio 
-      * Our first script 
-      * Play() vs PlayOneShot()
-      * Using Triggers 
-      * Sample randomization 
-      * Detecting keyboard events 
+   Class canceled 
+
    </td>
   </tr>
   <tr>
@@ -334,7 +330,30 @@ th {
    </td>
    <td>10/4, 10/6, 10/8
    </td>
-   <td>Common Scenarios for implementing audio: ambiences, loops, footsteps, collisions etc. 
+   <td>
+   Common Scenarios for implementing audio: ambiences, loops, footsteps, collisions etc. 
+
+   **Monday 10/4**
+
+   * Practical sfx
+      * Reaper setup review
+      * Max is a monster  
+      * Gunshot - in game-sfx-setup
+      * Portal gun
+      * Spaceship  
+   * Ambiences with Sound Particles 
+      * Battle scene 
+
+
+   **Wednesday 10/6**
+
+   * Coding for game audio 
+      * Our first script 
+      * Play() vs PlayOneShot()
+      * Using Triggers 
+      * Sample randomization 
+      * Detecting keyboard events  
+  
 <p>
 Project 4: Due 10/9 – Implement common audio for common game scenarios. Use your sounds from project 3.  
    </td>
