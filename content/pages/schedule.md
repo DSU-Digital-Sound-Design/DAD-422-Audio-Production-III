@@ -347,29 +347,7 @@ th {
 
    **Wednesday 10/6**
 
-   * Sound Effects Scripting tutorial
-
-   <!-- * Coding for game audio 
-      * Our first script 
-      * Play() vs PlayOneShot()
-      * Using Triggers 
-      * Sample randomization 
-      * Detecting keyboard events   -->
-  
-<!-- 
-   **Friday 10/9**
-
-   * Creating and working with loops for ambience and backgrounds. 
-   * Using triggers for loop for 2D and 3D ambiences.
- * Working with random emitters to create a richer soundscape.
- Collisions.
- * Surface and velocity­dependent collisions.  
-   * Distance crossfades.
- * Sound concatenation.
- * Raycasting for occlusion simulation.
- * Adding sound to animation clips.  
-  * Working with prefabs.
-   -->
+   * [Sound Effects Scripting tutorial](https://learn.unity.com/tutorial/sound-effects-scripting)
 
    Project 4: Due 10/15 – Implement common audio for common game scenarios. Use your sounds from project 3.  
 
