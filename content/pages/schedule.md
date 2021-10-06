@@ -347,7 +347,7 @@ th {
 
    **Wednesday 10/6**
 
-   * [Sound Effects Scripting tutorial](https://learn.unity.com/tutorial/sound-effects-scripting)
+   * [Sound Effects Scripting tutorial](https://learn.unity.com/tutorial/sound-effects-scripting-1)
 
    Project 4: Due 10/15 – Implement common audio for common game scenarios. Use your sounds from project 3.  
 
