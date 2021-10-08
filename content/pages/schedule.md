@@ -352,6 +352,17 @@ th {
 
    Project 4: Due 10/15 – Implement common audio for common game scenarios. Use your sounds from project 3.  
 
+   **Friday 10/8**
+
+   * Present SFX projects 
+   * Audio Mixer
+      * Audio Mixer Groups
+      * Views and snapshots 
+      * Effects
+      * Send and Receive 
+      * Duck volume - AKA sidechain compression 
+      * See FPS Microgame for a more complex mixer example
+
    </td>
   </tr>
   <tr>
