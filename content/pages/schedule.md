@@ -350,7 +350,7 @@ th {
    * [Sound Effects Scripting tutorial](https://learn.unity.com/tutorial/sound-effects-scripting-1)
    * Also look through the FPS controller to see how footstep and jumping sound effects are implemented.
 
-   Project 4: Due 10/15 – Implement common audio for common game scenarios. Use your sounds from project 3.  
+
 
    **Friday 10/8**
 
@@ -363,6 +363,8 @@ th {
       * Duck volume - AKA sidechain compression 
       * See FPS Microgame for a more complex mixer example
 
+   Project 4: Due 10/15 – Implement common audio for common game scenarios. Use your sounds from project 3. I will help with the implementation depending on what your needs are. 
+
    </td>
   </tr>
   <tr>
@@ -370,7 +372,13 @@ th {
    </td>
    <td>10/13, 10/15
    </td>
-   <td>Introduction to spatial audio and spatial audio psychoacoustics: the theory behind immersive audio
+   <td>
+   
+   Introduction to spatial audio and spatial audio psychoacoustics: the theory behind immersive audio
+
+   * Work on project 4
+      * Find an example from the Unity asset store that will allow you to implement your sound effects 
+      * You may need to combine scripts from other projects such as a FPS controller or other spatial audio scripts
 <p>
 10/11 – No class for Native American Day
    </td>
