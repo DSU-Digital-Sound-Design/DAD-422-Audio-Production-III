@@ -374,13 +374,27 @@ th {
    </td>
    <td>
    
+   **Monday 10/11** – No class for Native American Day
+
+   **Wednesday 10/13**
+
+   * Present SFX projects 
+   * Audio Mixer
+      * Audio Mixer Groups
+      * Views and snapshots 
+      * Effects
+      * Send and Receive 
+      * Duck volume - AKA sidechain compression 
+      * See FPS Microgame for a more complex mixer example
+
+   **Friday 10/15**
+
    Introduction to spatial audio and spatial audio psychoacoustics: the theory behind immersive audio
 
    * Work on project 4
       * Find an example from the Unity asset store that will allow you to implement your sound effects 
       * You may need to combine scripts from other projects such as a FPS controller or other spatial audio scripts
-<p>
-10/11 – No class for Native American Day
+
    </td>
   </tr>
   <tr>
