@@ -1,4 +1,6 @@
   
+First create an empty GameObject called AudioManger and add another GameObject as a child called Clickable Source. Add an audio source to the ClickableSource GameObject. Also add two more GameObjects to the AudioManger, one that plays music and one that plays ambience. 
+
 Create a play sound script with this code: 
 
 ```c#
@@ -20,9 +22,9 @@ public class PlayASound : MonoBehaviour
 }
 ```
   
-Add that script to your AudioManager empty GameObject. Make sure it has a musical source as a child. Then add the source and clip to the script on the AudioManager. 
+Add that script to your AudioManager empty GameObject. Make sure it has a musical source as a child. Then add music to the source and clip to the script on the AudioManager. 
 
-Now expand the playsound script be able to play an ambience. 
+Now expand the PlaySound script be able to play an ambience. 
 
 ## Static classes
 
@@ -49,10 +51,13 @@ Lets now make the AudioFunction class play sounds from an array. Delete the cont
 ```c#
 public static class AudioFunction
 {
-    public static void PlayRandomClip(AudioSource source, AudioClip[] clips) {
+    public static void PlayRandomClip(AudioSource source, AudioClip[] clips,
+            float pitchMin = 1f, float pitchMax = 1f) {
 
         // if the clips array is less than 2 don't do anything
         if (clips.Length < 2) return; 
+
+        source.pitch = Random.Range(pitchMin, pitchMax); 
 
         // Creates a random value between 0-8
         int newValue = Random.Range(0, clips.Length);
