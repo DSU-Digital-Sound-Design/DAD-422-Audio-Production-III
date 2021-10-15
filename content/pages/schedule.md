@@ -389,11 +389,16 @@ th {
 
    **Friday 10/15**
 
+   * More on [coding audio in Unity](pages/lectures/week-8/coding-audio.md) 
+
+
+
+<!-- 
    Introduction to spatial audio and spatial audio psychoacoustics: the theory behind immersive audio
 
    * Work on project 4
       * Find an example from the Unity asset store that will allow you to implement your sound effects 
-      * You may need to combine scripts from other projects such as a FPS controller or other spatial audio scripts
+      * You may need to combine scripts from other projects such as a FPS controller or other spatial audio scripts -->
 
    </td>
   </tr>
