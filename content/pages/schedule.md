@@ -411,10 +411,14 @@ th {
 <p>
 10/22
    </td>
-   <td>Environmental Modeling: reverberation, distance, occlusion, obstruction, exclusion
+   <td>
 
-<p>
-In class assignment: Add environmental modeling to project 4
+   **Monday 10/18**
+
+   * Add [animations to trees](pages/lectures/week-9/animations)
+  
+   <!-- Environmental Modeling: reverberation, distance, occlusion, obstruction, exclusion
+         In class assignment: Add environmental modeling to project 4 -->
    </td>
   </tr>
   <tr>
