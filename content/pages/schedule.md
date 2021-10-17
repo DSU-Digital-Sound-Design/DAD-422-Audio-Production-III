@@ -415,7 +415,15 @@ th {
 
    **Monday 10/18**
 
-   * Add [animations to trees](pages/lectures/week-9/animations)
+   * Add [animations to the project](pages/lectures/week-9/animations) and add sound to the animations. 
+
+   **Wednesday 10/20**
+
+   * Player locomotion 
+
+   **Friday 10/22**
+
+   * UI Sounds 
   
    <!-- Environmental Modeling: reverberation, distance, occlusion, obstruction, exclusion
          In class assignment: Add environmental modeling to project 4 -->
