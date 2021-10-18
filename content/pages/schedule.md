@@ -415,10 +415,11 @@ th {
 
    **Monday 10/18**
 
-   * Add [animations to the project](pages/lectures/week-9/animations) and add sound to the animations. 
+    * Keep doing - More on [coding audio in Unity](pages/lectures/week-8/coding-audio.md) 
 
    **Wednesday 10/20**
 
+   * Add [animations to the project](pages/lectures/week-9/animations) and add sound to the animations. 
    * Player locomotion 
 
    **Friday 10/22**
