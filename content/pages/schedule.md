@@ -437,7 +437,17 @@ th {
    </td>
    <td>10/25, 10/27, 10/29
    </td>
-   <td>Introduction to FMOD or Procedural audio with Chunity
+   <td>
+   <!-- Introduction to FMOD or Procedural audio with Chunity -->
+
+   **Monday 10/25**
+
+   * [Third Person Player footsteps and emotes](pages/lectures/week-10/third-person-locomotion)
+
+   **Wednesday 10/27**
+
+   * UI sounds 
+  
    </td>
   </tr>
   <tr>
@@ -445,7 +455,13 @@ th {
    </td>
    <td>11/1, 11/3, 11/5
    </td>
-   <td>Adaptive mixing
+   <td>
+   <!-- Adaptive mixing -->
+
+   Adding sounds to the Sun temple project 
+
+   
+
    </td>
   </tr>
   <tr>
