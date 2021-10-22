@@ -415,16 +415,18 @@ th {
 
    **Monday 10/18**
 
-    * Keep doing - More on [coding audio in Unity](pages/lectures/week-8/coding-audio.md) 
+   * Keep doing - More on [coding audio in Unity](pages/lectures/week-8/coding-audio) 
 
    **Wednesday 10/20**
 
    * Add [animations to the project](pages/lectures/week-9/animations) and add sound to the animations. 
-   * Player locomotion 
+   
 
    **Friday 10/22**
 
-   * UI Sounds 
+   * [Player locomotion](pages/lectures/week-9/locomotion)
+   
+   <!-- * UI Sounds  -->
   
    <!-- Environmental Modeling: reverberation, distance, occlusion, obstruction, exclusion
          In class assignment: Add environmental modeling to project 4 -->
