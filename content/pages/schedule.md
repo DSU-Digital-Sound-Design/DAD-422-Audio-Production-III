@@ -443,6 +443,7 @@ th {
    **Monday 10/25**
 
    * [Third Person Player footsteps and emotes](pages/lectures/week-10/third-person-locomotion)
+   * [Hi-Rez Studios Sound Design Internship](https://jobs.lever.co/hirezstudios/967186a3-c622-4dbb-909e-2b5f9ee7f09c)
 
    **Wednesday 10/27**
 
