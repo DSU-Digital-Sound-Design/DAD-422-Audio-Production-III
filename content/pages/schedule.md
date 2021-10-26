@@ -447,7 +447,11 @@ th {
 
    **Wednesday 10/27**
 
-   * UI sounds 
+   * [UI sounds](pages/lectures/week-10/ui-sounds)
+
+   **Friday 10/29**
+
+   * Final mix and catchup 
   
    </td>
   </tr>
