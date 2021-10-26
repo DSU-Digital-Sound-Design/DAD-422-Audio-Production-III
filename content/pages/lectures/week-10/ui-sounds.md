@@ -17,3 +17,9 @@ Create a GameObject AudioSource called ButtonSource then add the script to it. A
 Create two more buttons and add sounds to them. To one of the buttons add an Event Trigger component to it. This allows you to trigger functions on all sorts of events. Choose the pointer enter event. This will trigger the function when the pointer enters the button.
 
 See the [supported events](https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/SupportedEvents.html) list for more details on other types of events. 
+
+## Scene switching 
+
+Now we'll use a button to go from the UI to our Locomotion scene. First, go to file -> build settings and add open scene to the scenes in build list. Now open open the Locomotion scene and do the same thing. 
+
+Create a new script called SceneSwitch. Add this line to the top of the script `using UnityEngine.SceneManagement;`. This gives us access to the scene management functions. Then create a public function that runs the following code `SceneManager.LoadScene(1);` This will load scene 1. If we have multiple scenes you would choose different numbers. Now trigger this function with the on click event of the button. You should now be able to switch scenes. 
