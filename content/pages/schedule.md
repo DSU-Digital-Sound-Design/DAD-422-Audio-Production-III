@@ -463,9 +463,16 @@ th {
    <td>
    <!-- Adaptive mixing -->
 
-   Adding sounds to the Sun temple project 
+   ## Adding sounds to the Sun temple project 
 
+   **Monday 11/1**
+
+   * [Fire sounds](pages/lectures/week-11/fire-sounds)
+
+
+   **Wednesday 11/3**
    
+   * [Ambient sounds](pages/lectures/week-11/ambient-sounds)
 
    </td>
   </tr>
@@ -482,11 +489,15 @@ th {
    </td>
    <td>11/15, 11/17, 11/19
    </td>
-   <td><strong>Final project</strong> prep and flex time 
-<p>
-Add sound to a prefab environment ex: <a href="https://assetstore.unity.com/packages/3d/environments/sci-fi/destroyed-city-free-6459">https://assetstore.unity.com/packages/3d/environments/sci-fi/destroyed-city-free-6459</a>
-<p>
-Give a presentation to the class showing your process with video clips demonstrating immersive audio 
+   <td>
+   
+   **Final project** prep and flex time 
+
+   Add sound to a prefab environment ex: <a href="https://assetstore.unity.com/packages/3d/environments/sci-fi/destroyed-city-free-6459">https://assetstore.unity.com/packages/3d/environments/sci-fi/destroyed-city-free-6459</a>
+
+   You can also pick any of the other free environments from the asset store.
+
+   Give a presentation to the class showing your process with video clips demonstrating immersive audio 
    </td>
   </tr>
   <tr>
