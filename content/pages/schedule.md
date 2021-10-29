@@ -451,7 +451,7 @@ th {
 
    **Friday 10/29**
 
-   * [Final mix]() and catchup 
+   * [Final mix](pages/lectures/week-10/final-mix) and catchup 
   
    </td>
   </tr>
