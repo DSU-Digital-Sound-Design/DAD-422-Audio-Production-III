@@ -472,7 +472,7 @@ th {
 
    **Wednesday 11/3**
    
-   * [Ambient sounds](pages/lectures/week-11/ambient-sounds)
+   * [Ambient sounds](pages/lectures/week-11/sun-temple-ambient-sfx)
 
    </td>
   </tr>
