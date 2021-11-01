@@ -474,6 +474,10 @@ th {
    
    * [Ambient sounds](pages/lectures/week-11/sun-temple-ambient-sfx)
 
+   **Friday 11/5**
+
+   * Footsteps
+
    </td>
   </tr>
   <tr>
