@@ -467,7 +467,7 @@ th {
 
    **Monday 11/1**
 
-   * [Fire sounds](pages/lectures/week-11/fire-sounds)
+   * [Fire sounds](pages/lectures/week-11/sun-temple-fire-sfx)
 
 
    **Wednesday 11/3**
