@@ -476,7 +476,7 @@ th {
 
    **Friday 11/5**
 
-   * Footsteps
+   * [Footsteps](pages/lectures/week-11/footsteps)
 
    </td>
   </tr>
