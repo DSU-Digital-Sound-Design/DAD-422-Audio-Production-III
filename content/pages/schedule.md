@@ -503,13 +503,9 @@ th {
    </td>
    <td>
    
-   **Final project** prep and flex time 
+   [**Final project**](pages/projects#final) prep and flex time 
 
-   Add sound to a prefab environment ex: <a href="https://assetstore.unity.com/packages/3d/environments/sci-fi/destroyed-city-free-6459">https://assetstore.unity.com/packages/3d/environments/sci-fi/destroyed-city-free-6459</a>
-
-   You can also pick any of the other free environments from the asset store.
-
-   Give a presentation to the class showing your process with video clips demonstrating immersive audio 
+   
    </td>
   </tr>
   <tr>
