@@ -489,7 +489,10 @@ th {
 
    **Monday 11/8**
 
-   * [Add reverberation]() to the Sun temple project
+   * Add reverberation to the Sun temple project
+      * Create a group for the reverb effect and make it a receive, add the reverb effect after the receive 
+      * route the footsteps group to the reverb effect with a send 
+      * turn up the send level on the InsideBuilding snapshot and down on the Default  
   
    </td>
   </tr>
