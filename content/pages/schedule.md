@@ -485,7 +485,12 @@ th {
    </td>
    <td>11/8, 11/10, 11/12
    </td>
-   <td>Audio Data Reduction
+   <td>
+
+   **Monday 11/8**
+
+   * [Add reverberation]() to the Sun temple project
+  
    </td>
   </tr>
   <tr>

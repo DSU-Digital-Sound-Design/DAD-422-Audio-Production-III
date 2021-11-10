@@ -47,7 +47,7 @@ Next add the following function to check if we're on the terrain:
 ```c#
 bool CheckOnTerrain()
 {
-    return return hit.collider != null && hit.collider.tag == "Terrain"; 
+    return hit.collider != null && hit.collider.tag == "Terrain"; 
 }
 ```
 
