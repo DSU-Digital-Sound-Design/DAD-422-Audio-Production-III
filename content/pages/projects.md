@@ -38,7 +38,17 @@ Total - 40 points
 
 <h2 id="final">Final Project</h2>
 
-Add sound effects to a prefab environment. You can pick from any of the free ones on the [Unity Asset Store](https://assetstore.unity.com/3d/environments?category=3d%2Fenvironments&free=true&orderBy=1). You have freedom to pick, but ask me first so we can make sure the environment is complex enough to be interesting. The environment should not already have sound implemented in it. Some good choices are [Flooded Grounds](https://assetstore.unity.com/packages/3d/environments/flooded-grounds-48529), the [Viking Village](https://assetstore.unity.com/packages/essentials/tutorial-projects/viking-village-urp-29140), or [Destroyed City](https://assetstore.unity.com/packages/3d/environments/sci-fi/destroyed-city-free-6459#description). If you pick an environment that already has sound in it, I will be expecting improvements on the implementation and more sounds added to the scene.
+Add sound effects to a prefab environment. You can pick from any of the free ones on the [Unity Asset Store](https://assetstore.unity.com/3d/environments?category=3d%2Fenvironments&free=true&orderBy=1). You have freedom to pick, but ask me first so we can make sure the environment is complex enough to be interesting. The environment should not already have sound implemented in it. 
+
+Some good choices are: 
+
+* [Flooded Grounds](https://assetstore.unity.com/packages/3d/environments/flooded-grounds-48529), 
+* [Viking Village](https://assetstore.unity.com/packages/essentials/tutorial-projects/viking-village-urp-29140), 
+* [Destroyed City](https://assetstore.unity.com/packages/3d/environments/sci-fi/destroyed-city-free-6459#description). 
+* [Japanese Otaku City](https://assetstore.unity.com/packages/3d/environments/urban/japanese-otaku-city-20359#content)
+* [Abandoned Asylum](https://assetstore.unity.com/packages/3d/environments/urban/abandoned-asylum-49137) 
+ 
+If you pick an environment that already has sound in it, I will be expecting improvements on the implementation and more sounds added to the scene.
 
 There are many environments that are very cheap, under 20 dollars. These would be good to use if you want to work with a more dynamic environment.
 
