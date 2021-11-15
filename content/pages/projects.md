@@ -47,6 +47,7 @@ Some good choices are:
 * [Destroyed City](https://assetstore.unity.com/packages/3d/environments/sci-fi/destroyed-city-free-6459#description). 
 * [Japanese Otaku City](https://assetstore.unity.com/packages/3d/environments/urban/japanese-otaku-city-20359#content)
 * [Abandoned Asylum](https://assetstore.unity.com/packages/3d/environments/urban/abandoned-asylum-49137) 
+* [Sample Racer Environment Pack](https://assetstore.unity.com/packages/3d/environments/urban/sample-racer-environment-pack-63641#content)
  
 If you pick an environment that already has sound in it, I will be expecting improvements on the implementation and more sounds added to the scene.
 
