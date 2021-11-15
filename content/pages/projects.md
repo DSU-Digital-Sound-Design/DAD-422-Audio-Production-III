@@ -60,7 +60,8 @@ A successful project will include:
 * A user interface that allows the player to start the game. This interface should have music looping in the background. The player should be able to pause the game and return to this user interface by pressing the escape key.
 * A first/third person character that can move around the environment and jump.
     * Sounds will play for all of the possible character actions, walking, running, jumping, landing. 
-    * You may use the First Person Controller from the Unity Standard Assets package or one from [DarkTree FPS](https://assetstore.unity.com/packages/templates/systems/darktree-fps-v1-4-142383#description). This already has sounds implemented for all of the actions. Because of this you need to improve on them. 
+    * [First Person All-in-one](https://assetstore.unity.com/packages/tools/input-management/first-person-all-in-one-135316) is a great option. 
+    * [DarkTree FPS](https://assetstore.unity.com/packages/templates/systems/darktree-fps-v1-4-142383#description) is another option more based on making FPS games instead of just exploring. This already has sounds implemented for all of the actions. Because of this you need to improve on them. 
     * The footstep sounds should vary in pitch and volume. The should also change based on the surface the character is walking on.
 * The character should be able to interact with the environment in some way. Each of these interactions should have sounds associated with them.
     * Throwing, shooting, moving objects
