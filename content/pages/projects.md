@@ -54,6 +54,8 @@ A successful project will include:
 * The character should be able to interact with the environment in some way. Each of these interactions should have sounds associated with them.
     * Throwing, shooting, moving objects
     * [This tutorial](https://www.patrykgalach.com/2020/03/16/pick-up-items-in-unity/) is good for picking up and throwing objects. 
+    * Also review this [tutorial](https://learn.unity.com/tutorial/sound-effects-scripting-1?projectId=5f4e4ee3edbc2a001f1211df#5f4f7032edbc2a0021ccd904)
+    * Review the FPS Microgame for more ideas 
 * Environment
     * Add environmental effects to the scene if they aren't already there. 
     * Weather 
