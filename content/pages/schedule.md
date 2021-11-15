@@ -505,6 +505,8 @@ th {
    
    [**Final project**](pages/projects#final) prep and flex time 
 
+   * Creating a final build 
+
    
    </td>
   </tr>

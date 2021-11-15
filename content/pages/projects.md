@@ -46,6 +46,7 @@ Make sure to pick an environment with dynamic elements that you can add sounds t
 
 A successful project will include: 
 
+* A user interface that allows the player to start the game. This interface should have music looping in the background. The player should be able to pause the game and return to this user interface by pressing the escape key.
 * A first/third person character that can move around the environment and jump.
     * Sounds will play for all of the possible character actions, walking, running, jumping, landing. 
     * You may use the First Person Controller from the Unity Standard Assets package or one from [DarkTree FPS](https://assetstore.unity.com/packages/templates/systems/darktree-fps-v1-4-142383#description). This already has sounds implemented for all of the actions. Because of this you need to improve on them. 
@@ -68,5 +69,6 @@ A successful project will include:
     * Also, if inside a building the players sounds should have reverb, to simulate the sound of a building.
 * Create original sound design for all of the elements in your game. An exception can be made if the sound is not possible to record or synthesize, ex: a tiger roaring. If something already has a sound, replace the sound with a sound you created. 
 * Mix your sounds using AudioMixers and effects to create a convincing environment.
+* Finally build your game for your target platform. 
 
 Give a presentation to the class showing your process with video clips demonstrating immersive audio. You will turn in your project by submitting the video and a built version of the project.  
