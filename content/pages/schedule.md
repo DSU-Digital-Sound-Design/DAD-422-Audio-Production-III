@@ -507,6 +507,9 @@ th {
 
    * Creating a final build 
 
+   **Friday 11/19**
+
+   **[EA - Internship Sound Designer](https://ea.gr8people.com/jobs/169587/internship-sound-designer)**
    
    </td>
   </tr>
