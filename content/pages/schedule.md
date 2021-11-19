@@ -510,6 +510,9 @@ th {
    **Friday 11/19**
 
    **[EA - Internship Sound Designer](https://ea.gr8people.com/jobs/169587/internship-sound-designer)**
+
+   * [C# Language Review Tutorial](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world)
+   * [Unity Scripting Manual](https://docs.unity3d.com/Manual/ScriptingSection.html)
    
    </td>
   </tr>
