@@ -513,6 +513,7 @@ th {
 
    * [C# Language Review Tutorial](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/hello-world)
    * [Unity Scripting Manual](https://docs.unity3d.com/Manual/ScriptingSection.html)
+   * [Beginner Scripting](https://learn.unity.com/project/beginner-gameplay-scripting?uv=2019.3)
    
    </td>
   </tr>
@@ -521,7 +522,14 @@ th {
    </td>
    <td>11/22
    </td>
-   <td>11/24 and 11/26 No class for Thanksgiving Holiday
+   <td>
+   
+   **11/22**
+
+   * [Intermediate Scripting in Unity](https://learn.unity.com/project/intermediate-gameplay-scripting)
+
+   11/24 and 11/26 No class for Thanksgiving Holiday
+   
    </td>
   </tr>
   <tr>
