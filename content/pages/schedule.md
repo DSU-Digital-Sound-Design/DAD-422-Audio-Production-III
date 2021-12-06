@@ -538,6 +538,9 @@ th {
    <td>11/29, 12/1, 12/3
    </td>
    <td>
+
+   * Continued work on final project
+
    </td>
   </tr>
   <tr>
@@ -545,7 +548,13 @@ th {
    </td>
    <td>12/6
    </td>
-   <td>Present final project 
+   <td>
+   
+   **Monday 12/6**
+
+   * Final day to work on final project in class
+   * Please fill out the student evaluations [here](https://sdbor.campuslabs.com/eval-home/direct/656403)
+   
    </td>
   </tr>
 </table>
